@@ -1,3 +1,3 @@
 
 # streamlit_project
-https://arpit-project2-045013.streamlit.app/
+http://172.20.10.11:8501/
